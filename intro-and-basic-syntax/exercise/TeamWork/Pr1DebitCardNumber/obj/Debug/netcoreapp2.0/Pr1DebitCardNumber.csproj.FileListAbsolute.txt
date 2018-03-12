@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\bin\Debug\netcoreapp2.0\Pr1DebitCardNumber.deps.json
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\bin\Debug\netcoreapp2.0\Pr1DebitCardNumber.runtimeconfig.json
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\bin\Debug\netcoreapp2.0\Pr1DebitCardNumber.runtimeconfig.dev.json
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\bin\Debug\netcoreapp2.0\Pr1DebitCardNumber.dll
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\bin\Debug\netcoreapp2.0\Pr1DebitCardNumber.pdb
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\obj\Debug\netcoreapp2.0\Pr1DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\obj\Debug\netcoreapp2.0\Pr1DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\obj\Debug\netcoreapp2.0\Pr1DebitCardNumber.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\obj\Debug\netcoreapp2.0\Pr1DebitCardNumber.AssemblyInfo.cs
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\obj\Debug\netcoreapp2.0\Pr1DebitCardNumber.dll
+C:\Users\John\Desktop\MyGitRepo\TeamWork\programing-fundamentals\intro-and-basic-syntax\exercise\TeamWork\Pr1DebitCardNumber\obj\Debug\netcoreapp2.0\Pr1DebitCardNumber.pdb
