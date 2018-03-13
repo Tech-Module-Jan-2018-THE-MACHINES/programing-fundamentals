@@ -4,10 +4,10 @@ public class Program
 {
     public static void Main()
     {
-        var fNum = int.Parse(Console.ReadLine());
-        var sNum = int.Parse(Console.ReadLine());
-        var tNum = int.Parse(Console.ReadLine());
-        var fourNum = int.Parse(Console.ReadLine());
-        Console.WriteLine($"{fNum:D4} {sNum:D4} {tNum:D4} {fourNum:D4}");
+        var firtsNum = int.Parse(Console.ReadLine());
+        var secondNum = int.Parse(Console.ReadLine());
+        var thirdNum = int.Parse(Console.ReadLine());
+        var fourthNum = int.Parse(Console.ReadLine());
+        Console.WriteLine($"{firtsNum:D4} {secondNum:D4} {thirdNum:D4} {fourthNum:D4}");
     }
 }
