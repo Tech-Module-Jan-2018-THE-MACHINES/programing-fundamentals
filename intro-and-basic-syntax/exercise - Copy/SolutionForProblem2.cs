@@ -2,14 +2,14 @@
 
 namespace Pr2RectangleArea
 {
-    class RectangleArea
+    class SolutionForProblem2
     {
         static void Main(string[] args)
         {
-            double widthRectangle = double.Parse(Console.ReadLine());
-            double heightRectangle = double.Parse(Console.ReadLine());
-            double areaRectangle = widthRectangle * heightRectangle;
-            Console.WriteLine($"{areaRectangle:F2}");
+            double widthRect = double.Parse(Console.ReadLine());
+            double heightRect = double.Parse(Console.ReadLine());
+            double areaRect = widthRect * heightRect;
+            Console.WriteLine($"{areaRect:F2}");
         }
     }
 }
