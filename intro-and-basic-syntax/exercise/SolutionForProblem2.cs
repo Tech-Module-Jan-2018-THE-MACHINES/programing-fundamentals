@@ -7,13 +7,13 @@ namespace Pr2RectangleArea
         static void Main(string[] args)
         {
             //In the first line we reciev width;
-            double widthRectangle = double.Parse(Console.ReadLine());
+            double widthRect = double.Parse(Console.ReadLine());
             //In the second line we reciev height;
-            double heightRectangle = double.Parse(Console.ReadLine());
+            double heightRect = double.Parse(Console.ReadLine());
             //We calculate area
-            double areaRectangle = widthRectangle * heightRectangle;
+            double areaRect = widthRect * heightRect;
             //Print result
-            Console.WriteLine($"{areaRectangle:F2}");
+            Console.WriteLine($"{areaRect:F2}");
         }
     }
 }
