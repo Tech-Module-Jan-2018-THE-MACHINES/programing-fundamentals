@@ -5,7 +5,7 @@ public class Program
     public static void Main()
     {
         // Recieve num
-        var fNum = int.Parse(Console.ReadLine());
+        var numF = int.Parse(Console.ReadLine());
         // Recieve num
         var sNum = int.Parse(Console.ReadLine());
         // Recieve num
