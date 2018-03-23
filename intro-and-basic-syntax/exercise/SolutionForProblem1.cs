@@ -13,6 +13,6 @@ public class Program
         // Recieve num
         var fourNum = int.Parse(Console.ReadLine());
         // Print num
-        Console.WriteLine($"{fNum:D4} {sNum:D4} {tNum:D4} {fourNum:D4}");
+        Console.WriteLine($"{numF:D4} {sNum:D4} {tNum:D4} {fourNum:D4}");
     }
 }
