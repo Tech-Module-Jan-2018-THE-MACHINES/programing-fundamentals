@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Program
 {
@@ -6,14 +6,14 @@ public class Program
     {   //reading from the console product name 
         var productName = Console.ReadLine();
         //reading from the console product volume
-        var volume = double.Parse(Console.ReadLine());
+        var volumeForProduct = double.Parse(Console.ReadLine());
         //reading from the console product energy content per 100ml 
-        var energyContent = double.Parse(Console.ReadLine());
+        var energyContentPer100ml = double.Parse(Console.ReadLine());
         //reading from the console product sugar content per 100ml 
-        var sugarContent = double.Parse(Console.ReadLine());
+        var sugarContentPer100ml = double.Parse(Console.ReadLine());
         //printing volume and name
-        Console.WriteLine($"{volume}ml {productName}:");
+        Console.WriteLine($"{volumeForProduct}ml {productName}:");
         //calculating and print kcal and sugar
-        Console.WriteLine($"{(energyContent * volume / 100)}kcal, {(sugarContent * volume / 100)}g sugars");
+        Console.WriteLine($"{(energyContentPer100ml * volumeForProduct / 100)}kcal, {(sugarContentPer100ml * volumeForProduct / 100)}g sugars");
     }
 }
