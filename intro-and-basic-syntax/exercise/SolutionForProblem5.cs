@@ -1,4 +1,4 @@
-//CONFIRMED from <RomanGyolski>
+//CONFIRMED from RomanGyolski
 using System;
 
 public class Program
