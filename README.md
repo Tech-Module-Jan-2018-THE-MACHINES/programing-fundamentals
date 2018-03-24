@@ -17,7 +17,7 @@ debit card format. See the examples below for the appropriate formatting.
 5331
 
  
-# **Output**
+### **Output**
 0012 0433 0001 5331
 
 
@@ -27,7 +27,7 @@ debit card format. See the examples below for the appropriate formatting.
 12
 3
 
-# **Output** 
+### **Output** 
 9182 4221 0012 0003
 
 
@@ -37,7 +37,7 @@ debit card format. See the examples below for the appropriate formatting.
 123
 22
 
-# **Output** 
+### **Output** 
 0812 0321 0123 0022
 
 
@@ -54,7 +54,7 @@ The width and height come as floating point numbers on the console, formatted to
 2
 7
 
-# **Output**
+### **Output**
 14.00
 
 
@@ -62,14 +62,14 @@ The width and height come as floating point numbers on the console, formatted to
 7
 8
 
-# **Output**
+### **Output**
 56.00
 
 
 ### **Input**
 12.33
 
-# **Output**
+### **Output**
 5
 61.65
 
@@ -87,7 +87,7 @@ Note: 1 mile == 1.60934 kilometers.
 ### **Input**
 60
 
-# **Output**
+### **Output**
 96.56
 
 
@@ -101,7 +101,7 @@ Note: 1 mile == 1.60934 kilometers.
 ### **Input**
 52.1113
  
-# **Output**
+### **Output**
 83.86
 
 -------------------------------------------------------------------------------------------------------
@@ -126,7 +126,7 @@ Nuka-Cola
 70
  
 
-# **Output**
+### **Output**
 220ml Nuka-Cola:
 660kcal, 154g sugars
 
@@ -137,7 +137,7 @@ Ice Cold Nuka-Cola
 350
 65
 
-# **Output**
+### **Output**
 250ml Ice Cold Nuka-Cola:
 875kcal, 162.5g sugars
 
@@ -148,7 +148,7 @@ Nuka-Cola Quantum
 600
 140
 
-# **Output**
+### **Output**
 350ml Nuka-Cola Quantum:
 2100kcal, 490g sugars
 
@@ -169,7 +169,7 @@ Mayro
 9
 10
 
-# **Output**
+### **Output**
 Name: Mayro
 Health: ||||||.....|
 Energy: ||||||||||.|
@@ -182,7 +182,7 @@ Bauser
 10
 10
 
-# **Output**
+### **Output**
 Name: Bauser
 Health: ||||||||||||
 Energy: ||||||||||||
@@ -196,7 +196,7 @@ Loogi
 14
 
 
-# **Output**
+### **Output**
 Name: Loogi
 Health: |||||||||............|
 Energy: |||............|
@@ -209,10 +209,10 @@ Toad
 0
 10
 
-# **Output**
+### **Output**
 Name: Toad
 Health: |.....|
 Energy: |..........|
 
-### Hints
+#### Hints
 - You can print a character multiple times, using new string(character, count).
